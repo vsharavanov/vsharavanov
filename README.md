@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**vsharavanov/vsharavanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="background-color: #000;">
+  <h1 style="text-align: center;">
+    Frontend developer
+  </h1>
+  <h2>
+    Skills: JS | TS | Angular | React | RxJS | NgXS | NgRx | Webpack | Gulp | HTML | CSS | GIT | OOP
+  </h2>
+  <h3>
+    [![codewars](https://www.codewars.com/users/Sharavan/badges/micro)](https://www.codewars.com/users/Sharavan)
+  </h3>
+  <h3>
+    [link](https://www.codewars.com/users/Sharavan/badges/micro)
+  </h3>
+</div>
